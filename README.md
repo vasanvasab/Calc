@@ -4,8 +4,6 @@
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
 
-## DESIGN STEPS:
-
 ### Step 1:
 Clone the github repository and create Django admin interface.
 
